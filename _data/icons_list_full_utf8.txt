@@ -1,0 +1,144 @@
+﻿2 User.svg
+3 User.svg
+Activity.svg
+Add User.svg
+Arrow - Down 2.svg
+Arrow - Down 3.svg
+Arrow - Down 4.svg
+Arrow - Down 5.svg
+Arrow - Down Circle.svg
+Arrow - Down Square.svg
+Arrow - Down.svg
+Arrow - Left 2.svg
+Arrow - Left 3.svg
+Arrow - Left 4.svg
+Arrow - Left 5.svg
+Arrow - Left Circle.svg
+Arrow - Left Square.svg
+Arrow - Left.svg
+Arrow - Right 2.svg
+Arrow - Right 3.svg
+Arrow - Right 4.svg
+Arrow - Right 5.svg
+Arrow - Right Circle.svg
+Arrow - Right Square.svg
+Arrow - Right.svg
+Arrow - Up 2.svg
+Arrow - Up 3.svg
+Arrow - Up 4.svg
+Arrow - Up 5.svg
+Arrow - Up Circle.svg
+Arrow - Up Square.svg
+Arrow - Up.svg
+Avatar.svg
+Bag 2.svg
+Bag 3.svg
+Bag 4.svg
+Bag 5.svg
+Bag.svg
+Bookmark.svg
+Buy.svg
+Calendar.svg
+Call Missed.svg
+Call Silent.svg
+Call.svg
+Calling.svg
+Camera.svg
+Card.svg
+Category.svg
+Chart.svg
+Chat 3.svg
+Chat.svg
+Close Square.svg
+Danger Circle.svg
+Danger Square.svg
+Danger Triangle.svg
+Danger.svg
+Delete 3.svg
+Delete.svg
+Discount.svg
+Discovery.svg
+Document.svg
+Download.svg
+Download-1.svg
+Edit Square.svg
+Edit.svg
+Emoji.svg
+Filter 2.svg
+Filter 3.svg
+Filter 4.svg
+Filter.svg
+Folder.svg
+Game.svg
+Graph.svg
+Heart.svg
+Heart2.svg
+Hide.svg
+Home 3.svg
+Home.svg
+Image 2.svg
+Image 3.svg
+Image 4.svg
+Image.svg
+Info Circle.svg
+Info Square.svg
+Location 3.svg
+Location.svg
+Lock.svg
+Login.svg
+Login-1.svg
+Logout.svg
+Logout-1.svg
+Message.svg
+More Circle.svg
+More Square.svg
+Notification 4.svg
+Notification 5.svg
+Notification.svg
+Paper Download.svg
+Paper Download-1.svg
+Paper Fail.svg
+Paper Negative.svg
+Paper Plus.svg
+Paper Upload.svg
+Paper Upload-1.svg
+Paper.svg
+Password.svg
+Play.svg
+Plus.svg
+Profile.svg
+QR.svg
+Scan.svg
+Search.svg
+Send.svg
+Setting 3.svg
+Setting.svg
+Shield Done.svg
+Shield Fail.svg
+Show.svg
+Star 10.svg
+Star 11.svg
+Star 12.svg
+Star 13.svg
+Star 8.svg
+Star 9.svg
+Star.svg
+Swap.svg
+Tick Square.svg
+Ticket Star.svg
+Ticket.svg
+Time Circle.svg
+Time Square.svg
+Unlock.svg
+Upload.svg
+Upload-1.svg
+Video.svg
+Voice 2.svg
+Voice 3.svg
+Voice 4.svg
+Voice.svg
+Volume Down.svg
+Volume Off.svg
+Volume Up.svg
+Wallet.svg
+Work.svg
