@@ -31,8 +31,8 @@ For the best experience (required for single-file SVG downloads to work properly
 ## 🛠️ Tech Stack
 
 - HTML5
-- Vanilla CSS
-- Vanilla JavaScript
+- CSS
+- JavaScript
 - [JSZip](https://stuk.github.io/jszip/)
 
 *No heavy frameworks, no build steps required.*
