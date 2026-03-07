@@ -501,10 +501,16 @@ function switchLightboxAngle(angle) {
 
 // ── BULK DOWNLOADS (all route to pre-built static ZIPs) ──
 function downloadStyleBulk() {
-    const sl = currentStyle === 'palette' ? 'Shapes-6-Palette'
-        : currentStyle === 'clay' ? 'Shapes-Clay'
-            : 'Shapes-Dark-Material';
-    downloadStaticZip('assets/zips/' + sl + '.zip', sl + '.zip');
+    let driveLink = '';
+    if (currentStyle === 'palette') {
+        driveLink = 'https://drive.google.com/file/d/1akVksDbsD6xtAGg7Bx7Fngjj7oYvIHaS/view?usp=drive_link';
+    } else if (currentStyle === 'clay') {
+        driveLink = 'https://drive.google.com/file/d/1qBD7juuZm-R39JJfFxylVAF_vN71n3Jq/view?usp=drive_link';
+    } else {
+        driveLink = 'https://drive.google.com/file/d/1_aMQ7adidfkcan9QdCrXq8POovjNSOom/view?usp=drive_link';
+    }
+    window.open(driveLink, '_blank');
+    showToast('⬇ Opening Google Drive download page…');
 }
 
 function downloadIconlyBulk() {
