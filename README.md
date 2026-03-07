@@ -1,6 +1,6 @@
 # IconNest — Premium Icon Library 🪺
 
-> A curated, browser-based icon gallery featuring **2,900+ premium icons** across four collections. Browse, search, preview, and download individual icons or entire style packs — all in one place.
+> A curated, browser-based icon gallery featuring **2,500+ premium icons** across four collections. Browse, search, preview, and download individual icons or entire style packs — all in one place.
 
 ---
 
@@ -16,12 +16,12 @@ For the best experience (required for bulk ZIP downloads to work), open it via *
 
 | Collection | Count | Formats | Styles |
 |---|---|---|---|
-| **Iconly** | 140+ UI icons | SVG | Curved · Regular · Sharp × Light · Outline · Bold · Broken · Bulk · Two-tone |
-| **Glassy Icons** | 51 icons | SVG | Glass / frosted-glass aesthetic |
+| **Iconly** | 113 UI icons | SVG | Curved · Regular · Sharp × Light · Outline · Bold · Broken · Bulk · Two-tone |
+| **Glassy Icons** | 50 icons | SVG | Glass / frosted-glass aesthetic |
 | **3D Shape Icons** | 61 shapes × 2 angles | PNG (700–1000 px) | 6 Palette Color · Clay · Dark Material |
-| **Weather Icons** | 40+ conditions | SVG & PNG | Animated SVG · Static SVG · 3D PNG |
+| **Weather Icons** | 25 conditions | SVG & PNG | Animated SVG · Static SVG · 3D PNG |
 
-**Total: 2,900+ icons — 2,500+ SVG vectors**
+**Total: 2,500+ icons — 2,100+ SVG vectors**
 
 ---
 
@@ -126,8 +126,8 @@ No build tools, no frameworks, no dependencies beyond JSZip.
 
 - `SHAPES[]` — 61 shape objects, each with filename keys for all 3 styles × 2 angles
 - `WEATHER_ICONS[]` — Weather condition objects with id, name, and tag
-- `GLASSY_ICONS[]` — 51 glassy icon objects with filename references
-- `ICONLY_COMMON[]` — Flat array of 140+ icon names (reused across curvature/style combos)
+- `GLASSY_ICONS[]` — 50 glassy icon objects with filename references
+- `ICONLY_COMMON[]` — Flat array of 113 icon names (reused across curvature/style combos)
 
 On user interaction (tab switch, search input, load-more), the relevant render function re-builds the grid's `innerHTML` from the filtered/paginated slice of its data array.
 
@@ -180,7 +180,7 @@ All 23 ZIPs live in `assets/zips/`:
 | **LinkedIn** | [bhupeshchauhanz](https://www.linkedin.com/in/bhupeshchauhanz) |
 | **GitHub** | [bhupeshchauhanz](https://github.com/bhupeshchauhanz) |
 | **Support** | [buymeacoffee.com/bhupeshchauhanz](https://buymeacoffee.com/bhupeshchauhanz) |
-| **Email** | hello@iconnest.dev |
+| **Email** | support@bhupeshchauhan.in |
 
 ---
 
