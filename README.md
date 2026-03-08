@@ -39,6 +39,22 @@ For the best experience (required for single-file SVG downloads to work properly
 
 ---
 
+## ⚠️ Disclaimer & Attribution
+
+This is a **personal learning project** built to practice web development, UI design, and file organization. The goal was never to steal or redistribute icons — it was to learn by building something real and useful for myself.
+
+All icons used in this project belong to their **respective original creators and owners**. I do **not** claim ownership over any of the icon assets included here.
+
+> 📢 **To any icon creator or owner:** If you recognize your work in this project and would like proper credit added, a link to your profile/license included, or the icons removed entirely — please [open an issue](../../issues) or reach out via email. I will respond promptly and respectfully.
+
+This project is:
+- ✅ Built for **personal learning and portfolio** purposes only
+- ✅ **Not for commercial use**
+- ✅ **Not intended for redistribution** of the icon assets
+- ❌ Not affiliated with or endorsed by any icon platform or creator
+
+---
+
 ## 🔗 Credits & Contact
 
 - **Author:** Bhupesh Chauhan
@@ -49,4 +65,4 @@ For the best experience (required for single-file SVG downloads to work properly
 
 ---
 
-© 2026 IconNest. Built with ❤️ for the community.
+© 2026 IconNest. Built with ❤️ for learning and the community.
